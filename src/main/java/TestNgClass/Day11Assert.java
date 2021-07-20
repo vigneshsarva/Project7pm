@@ -43,4 +43,8 @@ private void beforeMethod() {
 private void aftermethod() {
 	getDate();
 }
+
+public void add() {
+	System.out.println("Add");
+}
 }
